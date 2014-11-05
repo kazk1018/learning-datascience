@@ -10,7 +10,7 @@
 * Scipy
 * Pandas
 * Scikit-learn
-* Statmodels
+* Matplotlib
 
 ## Requirement
 
