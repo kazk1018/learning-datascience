@@ -17,4 +17,4 @@
 [wiki](https://github.com/kazk1018/learning-datascience/wiki)
 
 ## Author
-Copyright (C) 2014 Kak1018 (Kazuki Taniguchi)
+Kazk1018 (Kazuki Taniguchi)
